@@ -1,5 +1,9 @@
 #env
 env/
 
+#Python
+*.pyc
+__pycache__
+
 #IPython
 .ipynb_checkpoints/
